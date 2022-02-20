@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../Resource/head_mask.jpg</file>
+        <file>../Resource/rc.gif</file>
+        <file>../Resource/R-C.gif</file>
+        <file>../Resource/sss.gif</file>
+    </qresource>
+</RCC>
